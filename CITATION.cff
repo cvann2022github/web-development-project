@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "ANN VINCENT CHITTILAPPILLY AMBILI"
+  given-names: "WEB DEVELOPMENT PROJECT USING HTML"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "ANN"
+  given-names: "HTML"
+  orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "web-development-project"
+version: 1.0.0
+doi: 10.5281/zenodo.1234
+date-released: 2024-07-27
+url: "https://github.com/cvann2022github/web-development-project"
